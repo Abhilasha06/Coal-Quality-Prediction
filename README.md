@@ -19,6 +19,7 @@ siamese network- 3.5</br>
 
 Weights/Accuracy plot
 
-![download66](https://user-images.githubusercontent.com/43816262/81581963-151ca900-93cd-11ea-868b-86ebfc3acef4.png)
+![paz](https://user-images.githubusercontent.com/43816262/81583557-2b2b6900-93cf-11ea-8d17-dc27bbfc5a1a.png)
+
 
 

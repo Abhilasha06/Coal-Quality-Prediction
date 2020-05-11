@@ -9,13 +9,15 @@ Test Accuracy -</br>
 cnn- 88.20%</br>
 resnet50- 96.82%</br>
 siamese network- 95.19%</br>
-weighted ensemble model-97.19%</br></br>
+weighted ensemble model-97.94%</br></br>
 
-Error v/s weights plot</br>
-![download (3)](https://user-images.githubusercontent.com/43816262/80647291-dc570880-8a8b-11ea-9721-46d67b024a46.png)
 
-Following are the weights used-</br>
+Following are the weights giving best ensemble accuracy-</br>
 cnn- 0.20</br>
-resnet50- 0.45</br>
-siamese network- 0.35</br>
+resnet50- 0.6</br>
+siamese network- 0.2</br>
+
+Weights/Accuracy plot
+
+![download (0 9794007490636704)](https://user-images.githubusercontent.com/43816262/81559557-438a8c00-93ad-11ea-974a-3f7feb5ab950.png)
 

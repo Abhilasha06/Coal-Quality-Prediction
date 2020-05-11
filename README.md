@@ -13,11 +13,12 @@ weighted ensemble model-97.94%</br></br>
 
 
 Following are the weights giving best ensemble accuracy-</br>
-cnn- 0.20</br>
-resnet50- 0.6</br>
-siamese network- 0.2</br>
+cnn- 2</br>
+resnet50- 4.5</br>
+siamese network- 3.5</br>
 
 Weights/Accuracy plot
 
-![download (0 9794007490636704)](https://user-images.githubusercontent.com/43816262/81559557-438a8c00-93ad-11ea-974a-3f7feb5ab950.png)
+![download66](https://user-images.githubusercontent.com/43816262/81581963-151ca900-93cd-11ea-868b-86ebfc3acef4.png)
+
 
